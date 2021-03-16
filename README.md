@@ -1,4 +1,4 @@
 # Linux Centos 7 Backup Script
 Linux Backup Script in BASH (French only)
 
-Optionnal: Google S3 Bucket
+Optionnal: Microsoft Azure Storage Backup
